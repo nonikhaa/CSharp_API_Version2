@@ -1,0 +1,8 @@
+D:\noni\c#\api\tutorial_6\Project.client\bin\Debug\Project.client.exe.config
+D:\noni\c#\api\tutorial_6\Project.client\bin\Debug\Project.client.exe
+D:\noni\c#\api\tutorial_6\Project.client\bin\Debug\Project.client.pdb
+D:\noni\c#\api\tutorial_6\Project.client\bin\Debug\Newtonsoft.Json.dll
+D:\noni\c#\api\tutorial_6\Project.client\bin\Debug\Newtonsoft.Json.xml
+D:\noni\c#\api\tutorial_6\Project.client\obj\Debug\Project.client.csprojResolveAssemblyReference.cache
+D:\noni\c#\api\tutorial_6\Project.client\obj\Debug\Project.client.exe
+D:\noni\c#\api\tutorial_6\Project.client\obj\Debug\Project.client.pdb
